@@ -17,7 +17,7 @@ yarn build
 
 ```
 cd src/server
-npm in
+npm install
 node server.js
 ```
 
